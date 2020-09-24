@@ -7,7 +7,7 @@ LICENSE: [GNU](./license.md)
 ---
 
 ### Содержание:
-#### Основные комманды
+#### Основные команды
 1. [git add](./add.md)
 2. [git status](./status.md)
 3. [git diff](./diff.md)
